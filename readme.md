@@ -1,5 +1,3 @@
-# MEBTTE.COM
+# I.MEBTTE.COM
 
-## Requirement
-
-- Node.js >= v14.8
+[https://i.mebtte.com](https://i.mebtte.com)
