@@ -62,7 +62,7 @@ footer {
 }
 
 #author > .description {
-  font-size: 18px;
+  font-size: 16px;
   color: var(--font-color);
   transition: color 0.3s;
   opacity: 0.8;
